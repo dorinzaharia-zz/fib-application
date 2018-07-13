@@ -38,17 +38,10 @@ deactivate
 ```
 ## Running the tests
 
-Run tests
-
-1.Give execute permission to your script
-
-```
-chmod +x run_tests.sh
-
 ```
 2. Run script from root directory
 ```
-./run_tests.sh
+./scripts/run_tests.sh
 ```
 
 ### Running application
