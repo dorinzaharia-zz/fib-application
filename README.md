@@ -24,13 +24,12 @@ git clone <URL>
 1.Activate virtual environment
 
 ```
-source fib_application/bin/activate
+source venv/bin/activate
 ```
 
 2.Install requirements
-
 ```
-pip3 install -r requirements.txt 
+./scripts/bootstap.sh
 ```
 3.If you are done working in the virtual environment for the moment, you can deactivate it:
 
