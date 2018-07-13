@@ -21,12 +21,21 @@ git clone <URL>
 
 ### Prerequisites
 
-Install requirements
+1.Activate virtual environment
+
+```
+source fib_application/bin/activate
+```
+2.Install requirements
 
 ```
 pip3 install -r requirements.txt 
 ```
+3.If you are done working in the virtual environment for the moment, you can deactivate it:
 
+```
+deactivate
+```
 ## Running the tests
 
 Run tests
