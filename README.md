@@ -26,6 +26,7 @@ git clone <URL>
 ```
 source fib_application/bin/activate
 ```
+
 2.Install requirements
 
 ```
@@ -38,8 +39,8 @@ deactivate
 ```
 ## Running the tests
 
-```
-2. Run script from root directory
+1. Run script from root directory
+
 ```
 ./scripts/run_tests.sh
 ```
