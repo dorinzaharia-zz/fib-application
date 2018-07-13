@@ -48,4 +48,4 @@ chmod +x run_tests.sh
 ```
 python3 app.py 
 ```
-In app.py just change number_of_terms to run app for different values
+In app.py just change **number_of_terms** to run app for different values
