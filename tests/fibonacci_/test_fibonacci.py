@@ -2,7 +2,7 @@
 Test
 """
 
-from fib_application.fibonacci.fibonacci import calculate_fibonacci
+from fibonacci.fibonacci import calculate_fibonacci
 
 def test_calculate_fibonacci(fibonacci_list):
     """
