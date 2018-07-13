@@ -31,11 +31,6 @@ source venv/bin/activate
 ```
 ./scripts/bootstap.sh
 ```
-3.If you are done working in the virtual environment for the moment, you can deactivate it:
-
-```
-deactivate
-```
 ## Running the tests
 
 1. Run script from root directory
